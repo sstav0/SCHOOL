@@ -1,9 +1,9 @@
-﻿using SCHOOL.Models;
+﻿using School.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 
-namespace SCHOOL.Data
+namespace School.Data
 {
     public class DatabaseContext : DbContext
     {

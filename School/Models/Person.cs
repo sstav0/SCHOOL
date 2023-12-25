@@ -1,4 +1,4 @@
-namespace SCHOOL.Models;
+namespace School.Models;
 /// <summary>
 /// Represents a person with basic properties like first name and last name.
 /// This class serves as a base class for other more specific person types.

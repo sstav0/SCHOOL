@@ -1,6 +1,6 @@
-namespace SCHOOL.Models;
+namespace School.Models;
 using Microsoft.EntityFrameworkCore;
-using SCHOOL.Data;
+using School.Data;
 using System;
 
 /// <summary>

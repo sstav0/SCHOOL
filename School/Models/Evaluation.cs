@@ -1,6 +1,6 @@
-namespace SCHOOL.Models;
+namespace School.Models;
 using System.ComponentModel.DataAnnotations.Schema;
-using SCHOOL.Data;
+using School.Data;
 using Microsoft.EntityFrameworkCore;
 
 /// <summary>

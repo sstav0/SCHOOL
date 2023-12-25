@@ -1,6 +1,6 @@
-namespace SCHOOL.Models;
+namespace School.Models;
 using Microsoft.EntityFrameworkCore;
-using SCHOOL.Data;
+using School.Data;
 
 /// <summary>
 /// Represents a student in the school.

@@ -1,6 +1,6 @@
-﻿using SCHOOL.Models;
+﻿using School.Models;
 
-namespace SCHOOL.Data
+namespace School.Data
 {
     /// <summary>
     /// Provides static methods for performing database operations related to students, teachers, activities, and evaluations.
